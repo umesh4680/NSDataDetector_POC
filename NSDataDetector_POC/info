@@ -1,0 +1,33 @@
+
+
+
+
+There are different type of Data Detector match types. Like  NSTextCheckingTypeDate ,
+    NSTextCheckingTypeAddress ,
+    NSTextCheckingTypeLink ,
+    NSTextCheckingTypePhoneNumber ,
+    NSTextCheckingTypeTransitInformation etc.
+
+
+
+
+https://iosdevcenters.blogspot.com/2016/01/how-to-detect-url-from-text-in-swift-20.html
+
+
+https://useyourloaf.com/blog/data-detection-for-links/
+
+
+https://github.com/zacwest/ZSWTappableLabel/blob/master/Example/ZSWTappableLabel/DataDetectorsSwiftViewController.swift
+
+https://github.com/zacwest/ZSWTappableLabel
+
+
+
+
+/======= To Create Extensions on String Class
+
+https://gist.github.com/ericdke/c4554e6c3eac01d48bd4
+
+
+
+
